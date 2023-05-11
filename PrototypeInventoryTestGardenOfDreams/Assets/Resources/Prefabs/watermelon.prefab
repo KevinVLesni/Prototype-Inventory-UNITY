@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameItem: 
-  id: 0
+  id: 9
   countItem: 0
   isStackable: 0
   descriptionItem: 
